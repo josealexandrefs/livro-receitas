@@ -3,3 +3,4 @@ Bem-vindo!
 
  - Strogonoff de frango
  - Pavê
+ - Torta
